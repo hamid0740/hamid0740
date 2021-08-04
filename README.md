@@ -7,7 +7,7 @@
 - 💬 Ask me about anything...
 - ⚡ Fun fact: I love playing video games, graphic designing, astronomy, chess.
 
-## 📧 Make sure to check my LinkForest:
+## 🌐 Make sure to check my LinkForest:
 
 <p align="center"><a href="https://hamid0740.neocities.org" target="_blank"><img src="https://hamid0740.neocities.org/logo.png" alt="hamid0740" height="50" style="vertical-align:top"></a></p>
 
