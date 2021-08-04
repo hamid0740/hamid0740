@@ -1,5 +1,6 @@
-### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=hamid0740.hamid0740)
+## Hi there 👋
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=hamid0740.hamid0740)-->
+[![Github](https://img.shields.io/github/followers/hamid0740?label=Follow&style=social)](https://github.com/hamid0740)
 <!--
 **hamid0740/hamid0740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
