@@ -8,10 +8,12 @@
 - ⚡ Fun fact: I love playing video games, graphic designing, astronomy, chess.
 
 ## 🌐 Make sure to check my LinkForest:
+#### _A project of mine, which you can buy. I may make it public one day._
 
 <p align="center"><a href="https://hamid0740.neocities.org" target="_blank"><img src="https://hamid0740.neocities.org/logo.png" alt="LinkForest" height="75" style="vertical-align:top"></a></p>
 
 ## 🧰 Languages and Tools:
+#### _Hover to see my skills:_
 <p align="center">
   <img title="Python: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python: 15%" height="50" style="vertical-align:top; margin:5px">
   <img title="C#: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="C#: 15%" height="50" style="vertical-align:top; margin:5px">
