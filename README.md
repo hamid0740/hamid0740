@@ -12,8 +12,8 @@
 ## 🎓 I'm a student by now
 - 💊 I’m currently studying at school.
 - 🔭 So unfortunately I don't have enogh time for programming.
-- 💬 Ask me about anything...
 - ⚡ Fun fact: I love playing video games, graphic designing, astronomy & chess.
+- 📍 Location: Yazd, Iran :iran:
 
 ## 🌐 Make sure to check my LinkForest:
 _A project of mine, which you can buy. I may make it public one day._
@@ -42,11 +42,17 @@ _A project of mine, which you can buy. I may make it public one day._
   <a href="#-languages-and-tools" target="_blank"><img title="Photoshop: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg' alt="Photoshop: Tool" height="50"></a>
 </p>
 
-## 🏆 My Github Stats:
+## 👻 My Discord:
 <p align="center">
-  <a href="#-my-github-stats"><img src="https://github-profile-trophy.vercel.app/?username=hamid0740" alt="Github Profile Trophy"/></a>
+  <a href="#-my-discord"><img src="https://discord.c99.nl/widget/theme-2/482544692567998466.png"/></a>
 </p>
-<br/>
+
+## 🏆 My Github Trophies:
+<p align="center">
+  <a href="#-my-github-trophies"><img src="https://github-profile-trophy.vercel.app/?username=hamid0740&theme=radical" alt="Github Profile Trophy"/></a>
+</p>
+
+## 💾 My GitHub Stats:
 <p align="center">
   <a href="#-my-github-stats"><img src="https://github-readme-stats.vercel.app/api?username=hamid0740&show_icons=true&theme=radical&locale=en" alt="Github Stats"/></a>
   <a href="#-my-github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamid0740&show_icons=true&theme=radical&locale=en&layout=compact" alt="Github Top Langs"/></a>
