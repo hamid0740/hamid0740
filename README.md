@@ -14,20 +14,20 @@
 
 ## 🧰 Languages and Tools:
 #### _Hover to see my skills:_
-<p align="center"><a href="#" target="_blank">
-  <img title="Python: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python: 15%" height="50" style="vertical-align:top; margin:5px">
-  <img title="C#: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="C#: 15%" height="50" style="vertical-align:top; margin:5px">
-  <img title="PHP: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="PHP: 15%" height="50" style="vertical-align:top; margin:5px">
-  <img title="HTML: 30%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt="HTML: 30%" height="50" style="vertical-align:top; margin:5px">
-  <img title="CSS: 25%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="CSS: 20%" height="50" style="vertical-align:top; margin:5px">
-  <img title="JavaScript: 20%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="JavaScript: 15%" height="50" style="vertical-align:top; margin:5px">
+<p align="center">
+  <a href="#-languages-and-tools" target="_blank"><img title="Python: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python: 15%" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="C#: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="C#: 15%" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="PHP: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="PHP: 15%" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="HTML: 30%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt="HTML: 30%" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="CSS: 25%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="CSS: 20%" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="JavaScript: 20%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="JavaScript: 15%" height="50" style="vertical-align:top; margin:5px"></a>
 </br>
-  <img title="GitHub: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="GitHub: Tool" height="50" style="vertical-align:top; margin:5px">
-  <img title="Chrome: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg' alt="Chrome: Tool" height="50" style="vertical-align:top; margin:5px">
-  <img title="Windows: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg' alt="Windows: Tool" height="50" style="vertical-align:top; margin:5px">
-  <img title="PyCharm: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg' alt="PyCharm: Tool" height="50" style="vertical-align:top; margin:5px">
-  <img title="Photoshop: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg' alt="Photoshop: Tool" height="50" style="vertical-align:top; margin:5px">
-</a></p>
+  <a href="#-languages-and-tools" target="_blank"><img title="GitHub: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="GitHub: Tool" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="Chrome: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg' alt="Chrome: Tool" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="Windows: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg' alt="Windows: Tool" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><a href="#-languages-and-tools" target="_blank"><img title="PyCharm: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg' alt="PyCharm: Tool" height="50" style="vertical-align:top; margin:5px"></a>
+  <a href="#-languages-and-tools" target="_blank"><img title="Photoshop: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg' alt="Photoshop: Tool" height="50" style="vertical-align:top; margin:5px"></a>
+</p>
 
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid0740&show_icons=true&theme=tokyonight)
