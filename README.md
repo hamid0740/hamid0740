@@ -14,7 +14,7 @@
 
 ## 🧰 Languages and Tools:
 #### _Hover to see my skills:_
-<p align="center">
+<p align="center"><a href="/#" target="_blank">
   <img title="Python: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python: 15%" height="50" style="vertical-align:top; margin:5px">
   <img title="C#: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="C#: 15%" height="50" style="vertical-align:top; margin:5px">
   <img title="PHP: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="PHP: 15%" height="50" style="vertical-align:top; margin:5px">
@@ -27,7 +27,7 @@
   <img title="Windows: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg' alt="Windows: Tool" height="50" style="vertical-align:top; margin:5px">
   <img title="PyCharm: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg' alt="PyCharm: Tool" height="50" style="vertical-align:top; margin:5px">
   <img title="Photoshop: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg' alt="Photoshop: Tool" height="50" style="vertical-align:top; margin:5px">
-</p>
+</a></p>
 
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid0740&show_icons=true&theme=tokyonight)
