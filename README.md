@@ -14,7 +14,7 @@
 
 ## 🧰 Languages and Tools:
 #### _Hover to see my skills:_
-<p align="center"><a href="/#" target="_blank">
+<p align="center"><a href="#" target="_blank">
   <img title="Python: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="Python: 15%" height="50" style="vertical-align:top; margin:5px">
   <img title="C#: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="C#: 15%" height="50" style="vertical-align:top; margin:5px">
   <img title="PHP: 15%" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="PHP: 15%" height="50" style="vertical-align:top; margin:5px">
