@@ -13,7 +13,7 @@
 - 💊 I’m currently studying at school.
 - 🔭 So unfortunately I don't have enogh time for programming.
 - 💬 Ask me about anything...
-- ⚡ Fun fact: I love playing video games, graphic designing, astronomy, chess.
+- ⚡ Fun fact: I love playing video games, graphic designing, astronomy & chess.
 
 ## 🌐 Make sure to check my LinkForest:
 _A project of mine, which you can buy. I may make it public one day._
