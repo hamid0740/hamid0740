@@ -11,7 +11,7 @@
 
 ## 🎓 I'm a student by now
 - 💊 I’m currently studying at school.
-- 🔭 So unfortunately I don't have enogh time for programming.
+- 🔭 So unfortunately I don't have enough time for programming.
 - ⚡ Fun fact: I love playing video games, graphic designing, astronomy & chess.
 - 📍 Location: Yazd, Iran :iran:
 
