@@ -31,9 +31,9 @@ _A project of mine, which you can buy. I may make it public one day._
   <a href="#-languages-and-tools"><img title="Python: 15%" src="https://img.shields.io/badge/-15%25-orange?logo=python&logoColor=blue&style=flat" alt="Python 15%"/></a>
   <a href="#-languages-and-tools"><img title="C#: 15%" src="https://img.shields.io/badge/-15%25-orange?logo=csharp&logoColor=purple&style=flat" alt="C# 15%"/></a>
   <a href="#-languages-and-tools"><img title="PHP: 15%" src="https://img.shields.io/badge/-15%25-orange?logo=php&logoColor=blue&style=flat" alt="PHP 15%"/></a>
-  <a href="#-languages-and-tools"><img title="HTML: 30%" src="https://img.shields.io/badge/-30%25-yellowgreen?logo=html5&logoColor=red&style=flat" alt="HTML 30%"/></a>
-  <a href="#-languages-and-tools"><img title="CSS: 25%" src="https://img.shields.io/badge/-25%25-yellow?logo=css3&logoColor=lightblue&style=flat" alt="CSS 25%"/></a>
-  <a href="#-languages-and-tools"><img title="JavaScript: 20%" src="https://img.shields.io/badge/-20%25-yellow?logo=javascript&logoColor=black&style=flat" alt="JS 20%"/></a>
+  <a href="#-languages-and-tools"><img title="HTML: 35%" src="https://img.shields.io/badge/-35%25-yellowgreen?logo=html5&logoColor=red&style=flat" alt="HTML 35%"/></a>
+  <a href="#-languages-and-tools"><img title="CSS: 30%" src="https://img.shields.io/badge/-30%25-yellow?logo=css3&logoColor=lightblue&style=flat" alt="CSS 30%"/></a>
+  <a href="#-languages-and-tools"><img title="JavaScript: 25%" src="https://img.shields.io/badge/-25%25-yellow?logo=javascript&logoColor=black&style=flat" alt="JS 25%"/></a>
 </br>
   <a href="#-languages-and-tools" target="_blank"><img title="GitHub: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="GitHub: Tool" height="50"></a>
   <a href="#-languages-and-tools" target="_blank"><img title="Chrome: Tool" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg' alt="Chrome: Tool" height="50"></a>
