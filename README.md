@@ -10,14 +10,15 @@
 </p>
 
 ## 🎓I'm a student by now
+- 🚫 **Unavailable until July 2023**
 - 💊 I’m currently studying at school.
 - 🔭 So unfortunately I don't have enough time for programming.
 - ⚡ Fun fact: I love playing video games, graphic designing, astronomy & chess.
 - 📍 Location: Yazd, Iran :iran:
 
-## 🌐Make sure to check my LinkForest:
-<p align="center"><a href="https://hamid0740.github.io" target="_blank"><img src="https://hamid0740.neocities.org/logo.png" alt="LinkForest" height="75"></a></p>
-<li><a href="https://github.com/hamid0740/LinkForest">Get LinkForest for free</a></li>
+## 🌐My LinkForest:
+<p align="center"><a href="https://hamid0740.github.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.svg" alt="LinkForest" height="75"></a></p>
+<li><a href="https://github.com/hamid0740/LinkForest">Get LinkForest for free (GitHub)</a></li>
 
 ## 🧰Languages and Tools:
 <p align="center">
